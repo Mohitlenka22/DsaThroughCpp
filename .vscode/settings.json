@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "typeindex": "c",
+        "typeinfo": "c"
+    }
+}
